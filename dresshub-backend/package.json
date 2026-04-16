@@ -9,9 +9,9 @@
     "nodemailer": "^6.10.0"
   },
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
-  },
+  "start": "node dresshub-backend/app.js",
+  "dev": "nodemon dresshub-backend/app.js"
+},
   "devDependencies": {
     "@types/express": "^5.0.0",
     "@types/node": "^22.13.10",
